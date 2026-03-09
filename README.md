@@ -4,3 +4,9 @@ The main focus of this project was to build the core functionality for analyzing
 
 Note:
 The UI was not a priority for this project. The goal was to focus on the functionality and logic behind code analysis rather than spending time on designing the interface.
+
+### Tech Stack
+- Next.js
+- JavaScript
+- Node.js API Routes
+- Groq AI API for code analysis
